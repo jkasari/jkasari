@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Jason Kasari,
 - I'm an avid learner and mountain biker! 
 - I love working with Arduinos, c++ and python.
-- Chasing the dream of a remote software job!
 - 📫 Shoot me an email at jkasari@outlook.com
 
 <!---
